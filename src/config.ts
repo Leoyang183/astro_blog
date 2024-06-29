@@ -3,8 +3,8 @@ import type { Site, SocialObjects } from "./types";
 export const SITE: Site = {
   website: "https://blog.leoyang183.com", // replace this with your deployed domain
   author: "Leo Yang",
-  desc: "楊承憲的部落格",
-  title: "楊承憲的部落格",
+  desc: "💻 Senior Full-stack Engineer ｜ Growth Hack Engineer | 📊 MarTech ｜ CRM Expert ｜ 商業分析 | 科技資訊",
+  title: "Leo Yang's Blog",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerPage: 3,

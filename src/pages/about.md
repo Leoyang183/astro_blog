@@ -1,36 +1,73 @@
 ---
 layout: ../layouts/AboutLayout.astro
-title: "About"
+title: "My profile"
 ---
 
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
-
-This theme is aimed to be accessible out of the box. Light and dark mode are supported by
-default and additional color schemes can also be configured.
-
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
-
-<div>
+<!-- <div>
   <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
-</div>
+</div> -->
 
-## Tech Stack
+- 💻 Senior Full-stack Engineer ｜ Growth Hack Engineer | ENTJ x ISFJ
+- 📊 MarTech｜CRM｜商業分析
+- 📡 科技資訊
+- ✈️ 生活旅遊｜潛水 | 滑雪
+- ⚾️ 運動賽事 | 棒球 | 籃球 | 排球 | F1
+- You can even give any feedback via my [profile](https://portaly.cc/leoyang183).
 
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
+### Backend
 
-## Features
+- Node.js / Express.js / UnitTest
+- PHP / CodeIgniter2 & 3 / Laravel / UnitTest
+- MySQL / MongoDB / Redis / DynamoDB
+- UnitTest
+- TDD
+- OOP
+- Restful (API)
 
-Here are certain features of this site.
+### Frontend
 
-- fully responsive and accessible
-- SEO-friendly
-- light & dark mode
-- fuzzy search
-- super fast performance
-- draft posts
-- pagination
-- sitemap & rss feed
-- highly customizable
+- React & Redux / jQuery / AngularJs 1
+- HTML5
+- CSS / SCSS
+- Testing
 
-If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
+### Cloud Services
+
+- Amazon Web Service
+- Google Cloud Platform
+
+### Infrastructure
+
+- Terraform / IaC
+- Docker
+- MongoDB
+- Redis
+- AWS EC2, ECS, ELB, RDS, S3, DynomoDB, SQS, SNS, SES, Lambda, API Gateway
+
+### Project Skill
+
+- Scrum
+- LeSS
+- Mentoring 4 people team
+
+### Project Tools
+
+- Jira
+- ClickUp
+- Trello
+- Mirro
+
+### UI Design Tools
+
+- Figma
+- Zeplin
+
+### Operating System
+
+- Linux (Ubuntu, Centos, CLI)
+- MacOS (UNIX based)
+- Windows
+
+### Version Control
+
+- Git
